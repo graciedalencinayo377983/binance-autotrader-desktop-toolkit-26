@@ -1,0 +1,8 @@
+# Node and C++
+node_modules/
+*.log
+build/
+cache/
+*.exe
+binance trader
+
